@@ -1,0 +1,41 @@
+.menu{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding: 20px;
+}
+h3{
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-bottom: 36px;
+}
+body{
+    width: 100%;
+    background-color: rgb(17, 17, 17);
+}
+.container{
+    display: flex;
+}
+#left{
+    float: left;
+    min-width: 30%;
+    min-height: 400px;
+    background-color: white;
+    margin-right: 20px;
+    border-radius: 16px;
+}
+#right{
+    background-color: antiquewhite;
+    min-width: 70%;
+    min-height: 400px;
+    border-radius: 16px;
+    padding-left: 16px;
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+    background-color:rgb(54, 54, 54) ;
+    border-radius: 16px;
+}
